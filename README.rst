@@ -284,7 +284,7 @@ Credits
 
 .. _12factor: http://www.12factor.net/
 .. _12factor-django: http://www.wellfireinteractive.com/blog/easier-12-factor-django/
-.. _`Two Scoops of Django`: https://django.2scoops.org (book)
+.. _`Two Scoops of Django`: http://twoscoopspress.com (book)
 
 
 .. _Distribute: http://pypi.python.org/pypi/distribute
